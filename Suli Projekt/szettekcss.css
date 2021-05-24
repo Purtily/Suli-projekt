@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.img1{
+    float: right;
+    padding-right: 50px;
+}
+
+body{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    font-family: 'Times New Roman';
+    background: rgb(27, 27, 27);
+}
+
+header{
+    color: chocolate;
+    background: rgb(34, 34, 34);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: chocolate;
+}
+
+li{
+    display: inline;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-right: 2px solid;
+}
+
+.nav-item1{
+    border-left: 2px solid;
+}
+
+.navigation{
+    margin: 0;
+}
+
+.szöveg{
+    background: rgb(34, 34, 34);
+    color: chocolate;
+    margin: 80px;
+}
+
+nav ul{
+    list-style: none;
+}
